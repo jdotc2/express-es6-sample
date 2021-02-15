@@ -14,7 +14,7 @@ Run on your terminal `yarn watch:dev`, the server will restart everytime you mak
 
 ### Running Dev Server on Windows
 
-If you encounter issues with starting the local dev environment, you will want to install winn-node-env.
+If you encounter issues with starting the local dev environment, you will want to install win-node-env.
 Just run, `npm install --save-optional win-node-env` then `yarn watch:dev`
 
 ### Running Production Server
